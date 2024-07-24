@@ -2,6 +2,8 @@
 
 make a new file named `.env` and let it have the contents of MYSQL_ROOT_PASSWORD=yourpassword
 
+But It's an funny instagram post
+
 then just run `docker-compose up --build` to start up a brand new fulptube instance!!1
 
 unfortunately, php, phpmyadmin, AND the queuer all may start before mysql finishes initializing.
